@@ -1,0 +1,68 @@
+age_at_death	sex	duration_months	family_hx_cjd	family_hx_neurological_disease	diagnosis	relationship	gt129	age_at_death_bin
+67	M	35	Unknown	Unknown			MM	65-69
+77	F	27	Unknown	Yes			VV	75-79
+52	M	14	Unknown	Unknown			VV	50-54
+92	F		Unknown	Unknown			MM	90+
+62	F	9	Unknown	Yes			VV	60-64
+77	M	46	Unknown	Yes			VV	75-79
+72	M	12	Unknown	Yes			VV	70-74
+57	M	15	Unknown	Unknown			VV	55-59
+67	F	11	Unknown	Yes			VV	65-69
+67	M	55	Unknown	Unknown			VV	65-69
+62	M	13	Unknown	Unknown			VV	60-64
+67	F	15	Unknown	Unknown			VV	65-69
+77	F	22	Unknown	Unknown			MM	75-79
+72	F	16	Unknown	Unknown			VV	70-74
+77	F	58	Unknown	Unknown			MV	75-79
+62	F	29	Unknown	Unknown			VV	60-64
+87	M	70	Unknown	Unknown			MV	85-89
+67	M	38	Unknown	Unknown			MV	65-69
+77	M	9	Unknown	Unknown			VV	75-79
+77	M	16	Unknown	Unknown			VV	75-79
+72	F	65	Unknown	Unknown			MV	70-74
+52	M	38	Unknown	Unknown			VV	50-54
+77	M	17	Unknown	Unknown			VV	75-79
+72	M	47	Unknown	Unknown			MV	70-74
+72	F	42	Unknown	Unknown			VV	70-74
+77	F	39	Unknown	Yes			VV	75-79
+77	F	54	Unknown	Unknown			MV	75-79
+82	F	31	Unknown	Unknown			VV	80-84
+67	M	10	Unknown	Yes			VV	65-69
+87	M	30	Unknown	Unknown			MM	85-89
+72	M	17	Unknown	Unknown			VV	70-74
+67	F	28	Unknown	Unknown			VV	65-69
+67	M	12	Unknown	Unknown			VV	65-69
+72	F	7	Unknown	Unknown			VV	70-74
+82	F		Unknown	Unknown			MV	80-84
+72	M	10	Unknown	Yes			VV	70-74
+77	F	19	Unknown	Unknown			VV	75-79
+82	M		Unknown	Unknown			MM	80-84
+62	F	28	Unknown	Unknown			VV	60-64
+77	F	12	Unknown	Unknown			VV	75-79
+52	M	11	Unknown	Unknown			VV	50-54
+57	M	7	Unknown	Unknown			VV	55-59
+77	M	10	Unknown	Unknown			VV	75-79
+82	M		Unknown	Unknown			MV	80-84
+77	F	48	No	No			MV	75-79
+82	M		Unknown	Unknown			MV	80-84
+57	M	29	Unknown	Unknown			VV	55-59
+82	M	24	Unknown	Unknown			MV	80-84
+67	F	21	Unknown	Unknown			VV	65-69
+72	F	20	Unknown	Unknown			VV	70-74
+82	M		Unknown	Unknown			MM	80-84
+72	F	48	No	No			VV	70-74
+47	M	8	No	No			MV	45-49
+62	F	11	No	Yes	Alzheimers	Mother	VV	60-64
+82	M	15	No	Yes	Parkinson's Disease	Mother	VV	80-84
+67	F		Unknown	Unknown			VV	65-69
+67	M	21	No	No			VV	65-69
+77	F	6	No	No			VV	75-79
+67	M	45	Unknown	Unknown			MM	65-69
+72	F	8	Unknown	Unknown			VV	70-74
+77	M	30	No	No			MM	75-79
+62	F	15	No	No			VV	60-64
+72	M	9	Unknown	Unknown			VV	70-74
+77	M						MM	75-79
+	M						MV	
+77	M	17	No	No			VV	75-79
+67	F	14	No	No			VV	65-69

@@ -1,0 +1,62 @@
+AGE ANOVA RESULTS:
+            Df Sum Sq Mean Sq F value  Pr(>F)   
+gt129        2   1009   504.7   7.452 0.00124 **
+Residuals   63   4267    67.7                   
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+1 observation deleted due to missingness
+
+Post-hoc Tukey Test for AGE ANOVA:
+  Tukey multiple comparisons of means
+    95% family-wise confidence level
+
+Fit: aov(formula = age_at_death ~ gt129, data = demo)
+
+$gt129
+            diff       lwr         upr     p adj
+MV-MM  -3.888889 -12.59973  4.82195266 0.5350822
+VV-MM -10.288889 -17.50215 -3.07562680 0.0030904
+VV-MV  -6.400000 -12.81805  0.01804698 0.0508018
+
+
+DURATION ANOVA RESULTS:
+            Df Sum Sq Mean Sq F value   Pr(>F)    
+gt129        2   5474    2737   15.38 4.96e-06 ***
+Residuals   55   9790     178                     
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+9 observations deleted due to missingness
+
+Post-hoc Tukey Test for DURATION ANOVA:
+  Tukey multiple comparisons of means
+    95% family-wise confidence level
+
+Fit: aov(formula = duration_months ~ gt129, data = demo)
+
+$gt129
+           diff        lwr        upr     p adj
+MV-MM  13.37778  -4.546999  31.302555 0.1798257
+VV-MM -12.87727 -28.043680   2.289134 0.1110879
+VV-MV -26.25505 -38.011775 -14.498326 0.0000047
+
+
+SEX AGE ANOVA RESULTS:
+            Df Sum Sq Mean Sq F value Pr(>F)
+sex          1     55   55.00   0.674  0.415
+Residuals   64   5222   81.59               
+1 observation deleted due to missingness
+
+SEX DURATION ANOVA RESULTS:
+            Df Sum Sq Mean Sq F value Pr(>F)
+sex          1     89   89.38    0.33  0.568
+Residuals   56  15175  270.98               
+9 observations deleted due to missingness
+
+FISHER'S EXACT TEST RESULTS:
+
+	Fisher's Exact Test for Count Data
+
+data:  table(demo[, c("sex", "gt129")])
+p-value = 0.2812
+alternative hypothesis: two.sided
+
